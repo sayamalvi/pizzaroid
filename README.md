@@ -36,6 +36,7 @@ The project focuses on delivering speed, reliability, and an intuitive user inte
 
 ### 5. **DevOps and Deployment**
 - CI/CD pipelines ensuring continuous integration and deployment.
+- Github Actions for Continuos Integration.
 - Containerized application with Docker.
 - Deployment on Kubernetes and AWS EKS clusters.
 - Configuration management and automated deployments.
@@ -49,16 +50,16 @@ The project focuses on delivering speed, reliability, and an intuitive user inte
 - React, React Router, Tailwind CSS, Ant Design, Shadcn UI
 
 ### Backend:
-- Node.js, Kafka, Redis, WebSockets, Database Transactions, Webhooks
+- Node.js, Express.js, Kafka, Redis, WebSockets, Webhooks
 
 ### DevOps:
-- Docker, Kubernetes, AWS (EKS, S3, Route53, IAM), CI/CD pipelines
+- Docker, Kubernetes, AWS (EKS, S3, Route53, IAM), CI/CD pipelines with Github Actions
 
 ### Testing:
-- Test Driven Development (TDD) using ViTest
+- Test Driven Development (TDD) using Jest
 
 ### Database:
-- PostgreSQL with advanced schema design and indexing strategies
+- PostgreSQL and MongoDB
 
 ### Security:
 - RSA-based token authentication, CORS, firewalls
@@ -74,13 +75,13 @@ The project focuses on delivering speed, reliability, and an intuitive user inte
 This project is divided into several repositories, each focusing on a specific aspect of the application. Below are the links to the repositories:
 
 1. **Authentication Service** - [GitHub Repository](https://github.com/sayamalvi/pizza-app-auth-service)
-2. **Order Service** - [GitHub Repository](https://github.com/sayamalvi/pizza-app-admin-ui)
+2. **Order Service** - [GitHub Repository](#)
 3. **Catalog Service** - [GitHub Repository](#)
 4. **Order Service** - [GitHub Repository](#)
 5. **Websocket Service** - [GitHub Repository](#)
 6. **Notification Service** - [GitHub Repository](#)
 7. **Client UI** - [GitHub Repository](#)
-8. **Admin UI** - [GitHub Repository](#)
+8. **Admin UI** - [GitHub Repository](https://github.com/sayamalvi/pizza-app-admin-ui)
 
 ---
 
