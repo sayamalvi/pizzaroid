@@ -1,4 +1,4 @@
-# Pizzaroid: Pizza Delivery App on Steroids
+# Pizzaroid: Pizza Delivery App on Steroids 💪🚀
 
 ## Project Overview
 Pizzaroid is a highly scalable and modular pizza delivery application built with cutting-edge technologies to ensure a seamless and efficient user experience. Designed to handle high traffic and provide superior performance, Pizzaroid redefines online pizza ordering by leveraging modern microservices architecture, advanced backend systems, and polished frontend interfaces. 
@@ -76,7 +76,7 @@ This project is divided into several repositories, each focusing on a specific a
 
 1. **Authentication Service** - [GitHub Repository](https://github.com/sayamalvi/pizza-app-auth-service)
 2. **Order Service** - [GitHub Repository](#)
-3. **Catalog Service** - [GitHub Repository](#)
+3. **Catalog Service** - [GitHub Repository](https://github.com/sayamalvi/pizza-app-catalog-service)
 4. **Order Service** - [GitHub Repository](#)
 5. **Websocket Service** - [GitHub Repository](#)
 6. **Notification Service** - [GitHub Repository](#)
