@@ -80,7 +80,7 @@ This project is divided into several repositories, each focusing on a specific a
 4. **Order Service** - [GitHub Repository](#)
 5. **Websocket Service** - [GitHub Repository](#)
 6. **Notification Service** - [GitHub Repository](#)
-7. **Client UI** - [GitHub Repository](#)
+7. **Client UI** - [GitHub Repository](https://github.com/sayamalvi/pizza-app-client-ui)
 8. **Admin UI** - [GitHub Repository](https://github.com/sayamalvi/pizza-app-admin-ui)
 
 ---
