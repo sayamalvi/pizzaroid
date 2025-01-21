@@ -75,7 +75,7 @@ The project focuses on delivering speed, reliability, and an intuitive user inte
 This project is divided into several repositories, each focusing on a specific aspect of the application. Below are the links to the repositories:
 
 1. **Authentication Service** - [GitHub Repository](https://github.com/sayamalvi/pizza-app-auth-service)
-2. **Order Service** - [GitHub Repository]([#](https://github.com/sayamalvi/pizza-app-order-service))
+2. **Order Service** - [GitHub Repository](https://github.com/sayamalvi/pizza-app-order-service)
 3. **Catalog Service** - [GitHub Repository](https://github.com/sayamalvi/pizza-app-catalog-service)
 5. **Websocket Service** - [GitHub Repository](#)
 6. **Notification Service** - [GitHub Repository](#)
